@@ -1,8 +1,23 @@
 ---
-layout: archive
-title: News
-description: News & blog posts
-permalink: /blog/
+title: Contact
+description:   
+background: /assets/img/1_14.jpg
+permalink: /contact/
 ---
 
-<!-- Content here would shop up above your list of posts -->
+&nbsp;
+&nbsp;
+&nbsp;
+
+Address: 
+
+Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
+
+No.1 West Beichen Road, Chaoyang District, Beijing, 100101, China
+
+E-mail: leili@genetics.ac.cn
+
+&nbsp;
+&nbsp;
+
+![nest](/assets/img/nest.jpg)
