@@ -5,12 +5,13 @@ background: /assets/img/1_14.jpg
 permalink: /research/
 ---
 
-</br>
+<br/>
 
 <font size="5" color="#00007f">
  <b>Molecular dialogue between plant and fungal pathogen</b>
 </font>
 
+<br/>
 
 ![colleto]({{ site.baseurl }}{% link /assets/img/colleto.jpg %}){: .float-right}
 Plants have evolved sophisticated mechanisms to recognize non-self molecules, allowing them to deploy effective immune reactions against a myriad of pathogens. Plant PRRs (Pattern Recognition Receptor) and NLRs (Nucleotide-Binding Leucine Rich Repeat) sense pathogen-derived molecules PAMPs (Pathogen-associated molecular pattern) and effectors, respectively, to activate many signaling events to coordinate antimicrobial defenses (Li et al., Cell Host Microbe 2014, 2016, 2020).
@@ -19,16 +20,16 @@ Fungal pathogens cause severe loss to crop productions. How do plants and fungal
  
  {: .clearfix} 
 
-</br>
+<br/>
 
 ---
-
-
+  
+  
 <font size="5" color="#00007f">
  <b>Plant disease resistance genes</b>
 </font>
-
-
+  
+  
 ![pheno]({{ site.baseurl }}{% link /assets/img/pheno.png %}){: .float-right}
 The era of big data allows us to study plant-microbe interaction systematically from genome to phenome and back. In plant pathology, precise, high-throughput, and reproducible phenotyping is still a big obstacle, particularly in the case of disease caused by fungal pathogens. We are interested in developing plant phenomics approaches for automatic, non-destructive and high-throughput phenotyping.
 
@@ -36,11 +37,11 @@ The evolutionary relationship between plants and microbes has dramatically affec
 
 {: .clearfix} 
 
-</br>
+<br/>
 
 ---
 
-</br>
+<br/>
 
 <font size="5" color="#00007f">
  <b>Plant endophytic fungal communities</b>
