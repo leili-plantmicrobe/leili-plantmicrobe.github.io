@@ -11,9 +11,10 @@ permalink: /research/
  <b>Molecular dialogue between plant and fungal pathogen</b>
 </font>
 
+&nbsp;
 
 ![colleto]({{ site.baseurl }}{% link /assets/img/colleto.jpg %}){: .float-right}
-Plants have evolved sophisticated mechanisms to recognize non-self molecules, allowing them to deploy effective immune reactions against a myriad of pathogens. Plant PRRs (Pattern Recognition Receptor) and NLRs (Nucleotide-Binding Leucine Rich Repeat) sense pathogen-derived molecules PAMPs (Pathogen-associated molecular pattern) and effectors, respectively, to activate many signaling events to coordinate antimicrobial defenses (Li et al., Cell Host Microbe 2014, 2016, 2020).
+<font face="Lato">Plants have evolved sophisticated mechanisms to recognize non-self molecules, allowing them to deploy effective immune reactions against a myriad of pathogens. Plant PRRs (Pattern Recognition Receptor) and NLRs (Nucleotide-Binding Leucine Rich Repeat) sense pathogen-derived molecules PAMPs (Pathogen-associated molecular pattern) and effectors, respectively, to activate many signaling events to coordinate antimicrobial defenses (Li et al., Cell Host Microbe 2014, 2016, 2020).</font>
 
 Fungal pathogens cause severe loss to crop productions. How do plants and fungal pathogens regulate their molecular processes during the interaction? What kind of molecules are involved in the communication between plant and fungal pathogen, and how are they transported between each other? We will use _Arabidopsis-Colletotrichum higginsianum_ and _Rice-Magnaporthe oryzae_ system to investigate the molecular dialogue between plants and microbes. We also will study effectors-mediated immunity at the pan-genome level to understand the co-evolution between plants and their pathogens.
  
