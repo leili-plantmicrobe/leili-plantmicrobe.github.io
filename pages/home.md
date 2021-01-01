@@ -13,11 +13,15 @@ permalink: /
 Research
 </font>
 </p>
+<br/>
+<br/>
 
 
-
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
-
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
-
-`[link text](/about/)`
+We are interested in the molecular mechanism of plant-microbe interaction. Focusing on plant and fungi interaction, we try to understand the infection processes of pathogenic fungi, as well as molecular details underlying plant-endophytic fungi interaction. We employ a variety of approaches including molecular genetics, biochemistry, functional genomics, and cell biology to investigate co-evolution between plants and microbes.
+<br/>
+The lab will be situated at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences from 2021. The lab is new, and we are always eager to hear from enthusiastic researchers from any related backgrounds interested in joining the lab.
+<br/>
+<br/>
+<p align="center">
+`[Read More](/about/)`
+</p>
