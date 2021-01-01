@@ -46,6 +46,8 @@ Click [here]({{ site.baseurl }}{% link pages/join.md %})
 
 {: .clearfix}
 
+<br/>
+<br/>
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %}){: .rounded .float-left}
 **Weclome!**<br/>
 2021-01-01<br/>
@@ -54,6 +56,9 @@ Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
 <br/>
 
 {: .clearfix}
+
+<br/>
+<br/>
 ![bupage1]({{ site.baseurl }}{% link /assets/img/bupage.jpg %}){: .rounded .float-left}
 **Protocol paper published!**<br/>
 2020-04-06<br/>
@@ -64,6 +69,8 @@ Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/c
 
 {: .clearfix}
 
+<br/>
+<br/>
 ![rpp7]({{ site.baseurl }}{% link /assets/img/rpp7.jpg %}){: .rounded .float-left}
 **RPW8 RPP7 NLR complex paper published in Cell Host Microbe**<br/>
 2020-03-11<br/>
