@@ -2,7 +2,7 @@
 title: Research
 description:   
 background: /assets/img/1_14.jpg
-permalink: /about/
+permalink: /research/
 ---
 
 ## Molecular dialogue between plant and fungal pathogen
