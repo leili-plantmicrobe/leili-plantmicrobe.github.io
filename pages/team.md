@@ -1,9 +1,9 @@
 ---
 layout: team
-title: Team
+title: People
 description: Who we are
+background: /assets/img/1_14.jpg
 permalink: /team/
 ---
-
-On this page you can list team members by defining them in [`_data/team.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/team.yml).
-
+<br/>
+<br/>
