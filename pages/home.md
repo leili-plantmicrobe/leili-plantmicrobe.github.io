@@ -20,43 +20,42 @@ We are interested in the molecular mechanism of plant-microbe interaction. Focus
 The lab will be situated at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences from 2021. The lab is new, and we are always eager to hear from enthusiastic researchers from any related backgrounds interested in joining the lab.
 <br/>
 <br/>
-[Read More](/about/)
+[Read More](/research/)
 <br/>
 <br/>
 
 ---
 
 
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 <p align="center">
 <font size="16">
 Latest news
 </font>
 </p>
-&nbsp;
-&nbsp;
-
+<br/>
+<br/>
 ![hiring](/assets/img/hiring.jpg){: .rounded .float-left}
 **We are hiring!**
 2021-01-03
 The lab is recruiting! Please write email if interested!
 Click [here](/join/)
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 ![zhuangzhi](/assets/img/join.png){: .rounded .float-left}
 **Weclome!**
 2021-01-01
 Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 ![bupage1](/assets/img/bupage.jpg){: .rounded .float-left}
 **Protocol paper published!**
 2020-04-06
 We wrote a protocol for studying protein oligomerization in plants.
 Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cppb.20107)
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 ![rpp7](/assets/img/rpp7.jpg){: .rounded .float-left}
 2020-03-11
 **RPW8 RPP7 NLR complex paper published in Cell Host Microbe**
