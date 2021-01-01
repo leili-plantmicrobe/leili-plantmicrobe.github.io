@@ -6,6 +6,8 @@ background: /assets/img/1_14.jpg
 permalink: /
 ---
 <br/>
+<br/>
+<br/>
 <p align="center">
 <font size="24">
 Research
