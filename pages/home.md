@@ -9,7 +9,7 @@ permalink: /
 <br/>
 <p align="center">
 <font size="20">
-**Research**
+Research
 </font>
 </p>
 <br/>
@@ -20,4 +20,4 @@ We are interested in the molecular mechanism of plant-microbe interaction. Focus
 The lab will be situated at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences from 2021. The lab is new, and we are always eager to hear from enthusiastic researchers from any related backgrounds interested in joining the lab.
 <br/>
 <br/>
-<p align="center">[Read More](/about/)</p>
+<p align="center">[Read More][/about/]</p>
