@@ -1,7 +1,7 @@
 ---
 title: Research
 description:   
-background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
+background: /assets/img/1_14.jpg
 permalink: /about/
 ---
 
