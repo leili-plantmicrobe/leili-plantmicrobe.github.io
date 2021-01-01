@@ -18,4 +18,4 @@ No.1 West Beichen Road, Chaoyang District, Beijing, 100101, China
 E-mail: leili@genetics.ac.cn
 
 
-![nest](/assets/img/nest.jpg)
+![nest]({{ site.baseurl }}{% link /assets/img/colleto.jpg %})
