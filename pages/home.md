@@ -8,7 +8,7 @@ permalink: /
 &nbsp;
 &nbsp;
 <p align="center">
-<font size="12">
+<font size="7">
   <b>Research</b>
 </font>
 </p>
