@@ -36,31 +36,30 @@ The lab will be situated at the Institute of Genetics and Developmental Biology,
 </p>
 <br/>
 <br/>
-{: .rounded .float-left}
-![hiring]({{ site.baseurl }}{% link /assets/img/hiring.jpg %})
+{: .rounded .float-left}![hiring]({{ site.baseurl }}{% link /assets/img/hiring.jpg %})
 **We are hiring!**<br/>
 2021-01-03<br/>
 The lab is recruiting! Please write email if interested!
 Click [here]({{ site.baseurl }}{% link pages/join.md %})
+<br/>
+<br/>
 {: .clearfix}
-<br/>
-<br/>
-![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %}){: .rounded .float-left}
+{: .rounded .float-left}![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %})
 **Weclome!**<br/>
 2021-01-01<br/>
 Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
+<br/>
+<br/>
 {: .clearfix}
-<br/>
-<br/>
-![bupage1]({{ site.baseurl }}{% link /assets/img/bupage.jpg %}){: .rounded .float-left}
+{: .rounded .float-left}![bupage1]({{ site.baseurl }}{% link /assets/img/bupage.jpg %})
 **Protocol paper published!**<br/>
 2020-04-06<br/>
 We wrote a protocol for studying protein oligomerization in plants.<br/>
 Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cppb.20107)
+<br/>
+<br/>
 {: .clearfix}
-<br/>
-<br/>
-![rpp7]({{ site.baseurl }}{% link /assets/img/rpp7.jpg %}){: .rounded .float-left}
+{: .rounded .float-left}![rpp7]({{ site.baseurl }}{% link /assets/img/rpp7.jpg %})
 **RPW8 RPP7 NLR complex paper published in Cell Host Microbe**<br/>
 2020-03-11<br/>
 Preprint paper about [Atypical Resistance Protein RPW8/HR Triggers Oligomerization of the NLR Immune Receptor RPP7 and Autoimmunity](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300512?via%3Dihub) now is published in Cell Host Microbe.
