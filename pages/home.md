@@ -12,8 +12,7 @@ permalink: /
 Research
 </font>
 </p>
-<br/>
-<br/>
+<br/><br/>
 We are interested in the molecular mechanism of plant-microbe interaction. Focusing on plant and fungi interaction, we try to understand the infection processes of pathogenic fungi, as well as molecular details underlying plant-endophytic fungi interaction. We employ a variety of approaches including molecular genetics, biochemistry, functional genomics, and cell biology to investigate co-evolution between plants and microbes.
 <br/>
 <br/>
@@ -21,12 +20,12 @@ The lab will be situated at the Institute of Genetics and Developmental Biology,
 <br/>
 <br/>
 [Read More](/about/)
-<br/>
-<br/>
+<br/><br/>
+
 ---
 <br/>
 <p align="center">
-<font size="20">
+<font size="16">
 Latest news
 </font>
 </p>
