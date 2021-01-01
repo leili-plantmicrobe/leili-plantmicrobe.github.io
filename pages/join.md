@@ -14,4 +14,4 @@ The lab is new, and we are eager to hear from enthusiastic students and post-doc
 <br/>
 <br/>
 <br/>
-![joinus]({{ site.baseurl }}{% link /assets/images/Joins.jpg %})
+![joinus]({{ site.baseurl }}{% link /assets/img/Joins.jpg %})
