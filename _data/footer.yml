@@ -2,17 +2,7 @@
 # You can also add a small print license statement at the bottom.
 
 # Columns (the more you add, the narrower they will be)
-#columns:
-  - description:
-    links:
-    - text: 
-      href:
-      new_window: 
-    - text: Name of project partner 2
-      href: http://example.com
-      new_window: true
 
-  - description: 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
