@@ -48,6 +48,8 @@ Click [here]({{ site.baseurl }}{% link pages/join.md %})
 
 <br/>
 <br/>
+<br/>
+
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %}){: .rounded .float-left}
 **Weclome!**<br/>
 2021-01-01<br/>
@@ -59,6 +61,7 @@ Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
 
 <br/>
 <br/>
+
 ![bupage1]({{ site.baseurl }}{% link /assets/img/bupage.jpg %}){: .rounded .float-left}
 **Protocol paper published!**<br/>
 2020-04-06<br/>
