@@ -8,8 +8,8 @@ permalink: /
 &nbsp;
 &nbsp;
 <p align="center">
-<font size="20">
-Research
+<font size="14">
+  <b>Research</b>
 </font>
 </p>
 <br/>
@@ -30,8 +30,8 @@ The lab will be situated at the Institute of Genetics and Developmental Biology,
 <br/>
 <br/>
 <p align="center">
-<font size="16">
-Latest news
+<font size="14">
+<b>Latest news</b>
 </font>
 </p>
 <br/>
