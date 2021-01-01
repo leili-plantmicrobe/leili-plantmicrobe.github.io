@@ -37,8 +37,8 @@ The lab will be situated at the Institute of Genetics and Developmental Biology,
 <br/>
 <br/>
 ![hiring](/assets/img/hiring.jpg){: .rounded .float-left}
-**We are hiring!**
-2021-01-03
+**We are hiring!**<br/>
+2021-01-03<br/>
 The lab is recruiting! Please write email if interested!
 Click [here](/join/)
 <br/>
