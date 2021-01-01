@@ -5,118 +5,32 @@ background: /assets/img/1_14.jpg
 permalink: /about/
 ---
 
+## Molecular dialogue between plant and fungal pathogen
 
+Plants have evolved sophisticated mechanisms to recognize non-self molecules, allowing them to deploy effective immune reactions against a myriad of pathogens. Plant PRRs (Pattern Recognition Receptor) and NLRs (Nucleotide-Binding Leucine Rich Repeat) sense pathogen-derived molecules PAMPs (Pathogen-associated molecular pattern) and effectors, respectively, to activate many signaling events to coordinate antimicrobial defenses (Li et al., Cell Host Microbe 2014, 2016, 2020).
 
-## Headings
-
-# Heading h1
-## Heading h2
-### Heading h3
-#### Heading h4
-##### Heading h5
-###### Heading h6
-###### Heading with custom id {#custom_id}
-
-{: .alert .alert-info }
-It's best to start page/post headings at h2, since the page/post title will already be an h1.
-
-## Paragraphs
-
-Set i won't void spirit all. Had after called us It wherein Tree in deep abundantly also midst Seed. Beast. Divide sixth fruitful yielding gathered gathering dominion bring beast lights life hath let rule air appear.
-
-Bring let rule creature. Very open hath to years. In second kind. Divide land night. Earth bearing tree lesser likeness likeness won't. Likeness creature light.
-
-## Line breaks
-
-This is the first line.  
-And this is the second line.
-
-## Emphasis
-
-This is **bold text**
-
-This is _italicized text_
-
-This is **_bold italicized text_**
-
-This is ~~strikethrough text~~
-
-## Blockquotes
-
-> Gathering brought him green. Creeping very after hath a, from likeness dry tree moved dry fowl. Our let forth, male dry won't god. Kind a thing, dominion lights midst him gathering waters fruitful greater god have dry land deep abundantly.
-
-## Lists
-
-Unordered list:
-
-- Item 1
-- Item 2
-- Item 3
-  - Subitem 1
-  - Subitem 2
-
-Ordered list:
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Subitem 1
-    2. Subitem 2
-
-Task list:
-
-- [x] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-Definition list:
-
-term 1
-: definition 1.1
-: definition 1.2
-
-term 2
-: definition 2
-
-## Code
-
-Inline `code`
-
-Indented code:
-
-    # Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Fenced code with syntax highlighting:
-
-```js
-const greet = (text) => "Hello " + text;
-
-// Test
-console.log(greet("world"));
-```
-
-## Horizontal rules
+Fungal pathogens cause severe loss to crop productions. How do plants and fungal pathogens regulate their molecular processes during the interaction? What kind of molecules are involved in the communication between plant and fungal pathogen, and how are they transported between each other? We will use _Arabidopsis-Colletotrichum higginsianum_ and _Rice-Magnaporthe oryzae_ system to investigate the molecular dialogue between plants and microbes. We also will study effectors-mediated immunity at the pan-genome level to understand the co-evolution between plants and their pathogens.
+![alt text](/assets/img/colleto.jpg){: .rounded .float-left}
 
 ---
 
+## Plant disease resistance genes 
+
+The era of big data allows us to study plant-microbe interaction systematically from genome to phenome and back. In plant pathology, precise, high-throughput, and reproducible phenotyping is still a big obstacle, particularly in the case of disease caused by fungal pathogens. We are interested in developing plant phenomics approaches for automatic, non-destructive and high-throughput phenotyping.
+
+The evolutionary relationship between plants and microbes has dramatically affected their genomes and result in highly diverse populations. Immune genes are the most variable genes in plant genomes, and likewise the virulence genes are the most variable genes in the pathogen genomes. We are interested in using the wild crop relatives and/or progenitor, and field samples to identify resistance genes from host and (a)virulence genes from pathogen, and using genomic method to understand how microbial populations drive the evolution of plant immune genes. In the end, We want to use this newly generated resources to engineer disease resistance in crops.
+
+---
+
+## Plant endophytic fungal communities
+
+Each plant species harbors a core microbial community, which plays a critical function in plant growth and resistance. Some recent studies about human and plant microbiome show that metabolites from both host and microbe can affect counterpart. For example, nonribosomal peptides and polyketides produced by microbes may regulate microbe-microbe or microbe-plant-microbe interactions in plant disease suppression. Focusing on plant-associated fungal community, we will isolate and culture endophytic fungal strains to study the higher-order interaction between different kingdoms. Specifically, We are interested in functional researches by investigating natural endophytic fungal isolates in plant disease resistance. Our goal is to improve plant resistance through manipulating the natural fungal community by genetic engineering tools.
+
+
+
 ## Links
 
-[link with url](http://www.example.com)
 
-[link with title](http://www.example.com "title text")
-
-[1]: http://www.example.com
-
-[link with reference][1]
-
-url: <http://www.example.com>
-
-See the [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#link) to create internal links. All internal links start from the `url` in `_config.yml`.
-
-The safest (and verbose) way for internal links is:
 
 - For pages: {% raw %}`[link text]({{ site.baseurl }}{% link pages/about.md %})`{% endraw %}
 - For posts: {% raw %}`[link text]({{ site.baseurl }}{% link _posts/2010-07-21-name-of-post.md %})`{% endraw %} or the shorter {% raw %}`[link text]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})`{% endraw %}
@@ -128,43 +42,13 @@ If you don't have a `baseurl` in `_config.yml`, don't plan to change permalinks 
 - For posts: {% raw %}`[link text]({% post_url 2010-07-21-name-of-post %})`{% endraw %}
 - For images and documents: `[link text](/assets/images/name-of-image.jpg)`
 
-## Tables
 
-Header 1 | Header 2
---- | ---
-Row 1 col 1 | Row 1 col 2
-Row 2 col 1 | Row 2 col 2
 
-Aligned columns:
 
-Right aligned | Center aligned
----: | :---:
-Row 1 col 1 | Row 1 col 2
-Row 2 col 1 | Row 2 col 2
 
-## Footnotes
 
-Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
 
-## Images
-
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=1000&h=200&fit=crop)
-_You can add an image caption by including an `_emphasized sentence_` directly below the image without inserting a new line. This will wrap both image and caption in a paragraph._
-
-See the [the links section](#links) to learn how to reference your own images and documents.
-
-## Styling content
-
-With the Kramdown Markdown parser that Jekyll uses, you can add css classes to your content (see this [blog post](https://digitaldrummerj.me/styling-jekyll-markdown/)). By sticking to [Bootstrap](https://getbootstrap.com/docs/4.3/) classes, you can easily style your content. If that doesn't fit your needs, you can always write html in your Markdown.
-
-### Alerts
-
-[Bootstrap documentation](https://getbootstrap.com/docs/4.3/components/alerts/)
-
-{: .alert .alert-info}
-Alert info message. This paragraph is styled by prepending it with `{: .alert .alert-info}`.
 
 ### Aligning images
 
