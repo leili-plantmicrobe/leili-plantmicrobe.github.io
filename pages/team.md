@@ -1,7 +1,7 @@
 ---
 layout: team
 title: People
-description: Who we are
+description: 
 background: /assets/img/1_14.jpg
 permalink: /team/
 ---
