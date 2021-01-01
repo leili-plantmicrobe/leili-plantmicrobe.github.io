@@ -21,3 +21,14 @@ The lab will be situated at the Institute of Genetics and Developmental Biology,
 <br/>
 <br/>
 [Read More](/about/)
+<br/>
+<br/>
+---
+<br/>
+<p align="center">
+<font size="20">
+Latest news
+</font>
+</p>
+<br/>
+<br/>
