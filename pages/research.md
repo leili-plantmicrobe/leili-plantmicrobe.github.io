@@ -4,9 +4,9 @@ description:
 background: /assets/img/1_14.jpg
 permalink: /research/
 ---
-
-## Molecular dialogue between plant and fungal pathogen
-
+<font size="6" color="#0000b2">
+ <b>Molecular dialogue between plant and fungal pathogen</b>
+</font>
 ![colleto]({{ site.baseurl }}{% link /assets/img/colleto.jpg %}){: .float-right}
 Plants have evolved sophisticated mechanisms to recognize non-self molecules, allowing them to deploy effective immune reactions against a myriad of pathogens. Plant PRRs (Pattern Recognition Receptor) and NLRs (Nucleotide-Binding Leucine Rich Repeat) sense pathogen-derived molecules PAMPs (Pathogen-associated molecular pattern) and effectors, respectively, to activate many signaling events to coordinate antimicrobial defenses (Li et al., Cell Host Microbe 2014, 2016, 2020).
 
