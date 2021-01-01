@@ -36,3 +36,30 @@ Latest news
 </p>
 &nbsp;
 &nbsp;
+
+![hiring](/assets/img/hiring.jpg){: .rounded .float-left}
+**We are hiring!**
+2021-01-03
+The lab is recruiting! Please write email if interested!
+Click [here](/join/)
+&nbsp;
+&nbsp;
+![zhuangzhi](/assets/img/join.png){: .rounded .float-left}
+**Weclome!**
+2021-01-01
+Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
+&nbsp;
+&nbsp;
+![bupage1](/assets/img/bupage.jpg){: .rounded .float-left}
+**Protocol paper published!**
+2020-04-06
+We wrote a protocol for studying protein oligomerization in plants.
+Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cppb.20107)
+&nbsp;
+&nbsp;
+![rpp7](/assets/img/rpp7.jpg){: .rounded .float-left}
+2020-03-11
+**RPW8 RPP7 NLR complex paper published in Cell Host Microbe**
+Preprint paper about [Atypical Resistance Protein RPW8/HR Triggers Oligomerization of the NLR Immune Receptor RPP7 and Autoimmunity](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300512?via%3Dihub) now is published in Cell Host Microbe.
+
+
