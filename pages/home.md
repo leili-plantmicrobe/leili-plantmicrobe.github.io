@@ -3,7 +3,7 @@ layout: home
 title: Plant & Microbe LILAB
 description: Coevolution between plant and microbe
 background: /assets/img/1_14.jpg
-permalink: /
+permalink: /home/
 ---
 &nbsp;
 &nbsp;
