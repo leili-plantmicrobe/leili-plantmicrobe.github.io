@@ -20,4 +20,4 @@ E-mail: leili@genetics.ac.cn
 &nbsp;
 &nbsp;
 
-![nest](/assets/img/nest.jpg)
+![nest]({{ site.baseurl }}{% link /assets/images/nest.jpg %})
