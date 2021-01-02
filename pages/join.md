@@ -9,7 +9,7 @@ permalink: /join/
 
 &nbsp;
 <font size="4" face ="Lato">
-The lab is new, and we are eager to hear from enthusiastic students and post-docs from a variety of backgrounds (plant biology, bioinformatics, microbiology, genetics/genomics, cell biology, and others) if interested in creative studies in the lab. We also welcome undergraduate students who would like to do their graduation projects or internship. Please contact us at <me>leili@genetics.ac.cn</me>
+The lab is new, and we are eager to hear from enthusiastic students and post-docs from a variety of backgrounds (plant biology, bioinformatics, microbiology, genetics/genomics, cell biology, and others) if interested in creative studies in the lab. We also welcome undergraduate students who would like to do their graduation projects or internship. Please contact us at <em>leili@genetics.ac.cn</em>.
 </font>
 <br/>
 <br/>
