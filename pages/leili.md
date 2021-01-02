@@ -11,25 +11,29 @@ permalink: /leili/
 
 ![leili]({{ site.baseurl }}{% link /assets/img/leili.jpg %})
 
+<br/>
 
 <font face="Lato" size="5">
   <b>Lei Li</b>
 </font>
 
 <br/>
-<br/>
 
-<font size="4" face="Lato">
 Principal Investigator, starting 2021
-<br/>
-Email: leili@genetics.ac.cn
-<br/>
+ 
+ 
+Email: <leili@genetics.ac.cn>
+ 
+ 
 Lei got his BS in biotechnology at Northwest A&F University. As a graduate student, he obtained his PhD working on plant immune pattern recognition receptor complex and virulence function of pathogen effectors at the Institute of Genetics and Developmental Biology in the laboratory of Prof. Jian-Min Zhou. Then, he moved to the Max Planck Institute for Developmental Biology as a postdoc working with Detlef Weigel on the mechanism of plant hybrid necrosis.
-</font>
-  
-<font size="5" face="Lato">Selected papers</font>
+ 
+ 
 <br/>
+ 
+ 
+<font size="5" face="Lato">Selected papers</font>
 
+<br/>
 **Li, L.**, Habring, A., Wang, K., Weigel, D. (2020). Oligomerization of NLR immune receptor RPP7 triggered by atypical resistance protein RPW8/HR. **Cell Host Microbe** 27, 405-417.
 
 Pramoj, P., Lundberg, D., Weigel, D., **Li, L.\#**, (2020). Blue native polyacrylamide gel electrophoresis (BN‐PAGE) for the analysis of protein oligomers in plants. **Current Protocol in Plant Biology** 5, e20107. doi: 10.1002/cppb.20107.
