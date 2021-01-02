@@ -32,7 +32,7 @@ Lei aims to mentor enthusiastic researchers who are interested in creative studi
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.png %}){: .float-left}
  
  
-[Zhuangzhi Zhou]
+**Zhuangzhi Zhou**
  
  
 Research Assistant
@@ -55,7 +55,7 @@ Zhuangzhi aims to investigate the molecular details about rice-Magnaporthe inter
 ![You]({{ site.baseurl }}{% link /assets/img/youcrop.png %}){: .float-left}
  
  
-[You?]
+**You?**
  
  
  
