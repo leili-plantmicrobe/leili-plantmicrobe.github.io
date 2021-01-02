@@ -18,7 +18,7 @@ tweets_on_home: false                    # Show Twitter feed of twitter_username
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 logo: /assets/img/logo.jpg  # Logo in navbar, will be displayed with 30px height
 colors:
-  links: "##ff0000"                      # Color for links: use a readable color that contrasts well with dark text
+  links: "#0000ff"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
