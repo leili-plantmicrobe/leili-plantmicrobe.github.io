@@ -9,7 +9,7 @@ permalink: /team/
 <br/>
 
 ![leili]({{ site.baseurl }}{% link /assets/img/leilicrop150.jpg %}){: .rounded .float-left}
-<a href="/research/">Lei Li</a>
+<a href="/pages/research.md">Lei Li</a>
 <br/>
 Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
 <br/>
