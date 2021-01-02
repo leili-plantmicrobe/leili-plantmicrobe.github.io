@@ -38,6 +38,8 @@ permalink: /
 ![hiring]({{ site.baseurl }}{% link /assets/img/hiring.jpg %}){: .rounded .float-left}
 **We are hiring!**<br/>
 2021-01-03<br/>
+ 
+ 
 The lab is recruiting! Please write email if interested!<br/>
 Click [here]({{ site.baseurl }}{% link pages/join.md %})
 <br/>
@@ -51,7 +53,9 @@ Click [here]({{ site.baseurl }}{% link pages/join.md %})
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %}){: .rounded .float-left}
 **Weclome!**<br/>
 <br/>
-Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
+Dr. Zhuangzhi Zhou joined the lab as Research Assistant. 
+
+Welcome, Zhuangzhi!
 <br/>
 <br/>
 
