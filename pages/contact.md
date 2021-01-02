@@ -15,7 +15,7 @@ Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
 
 No.1 West Beichen Road, Chaoyang District, Beijing, 100101, China
 
-E-mail: leili@genetics.ac.cn
+E-mail: <leili@genetics.ac.cn>
 
 &nbsp;
 &nbsp;
