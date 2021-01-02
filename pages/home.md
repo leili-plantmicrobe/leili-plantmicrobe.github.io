@@ -53,8 +53,7 @@ Click [here]({{ site.baseurl }}{% link pages/join.md %})
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/join.png %}){: .rounded .float-left}
 **Weclome!**<br/>
 <br/>
-Dr. Zhuangzhi Zhou joined the lab as Research Assistant. 
-
+Dr. Zhuangzhi Zhou joined the lab as Research Assistant.<br/>
 Welcome, Zhuangzhi!
 <br/>
 <br/>
