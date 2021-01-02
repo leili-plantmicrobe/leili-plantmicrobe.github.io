@@ -8,10 +8,18 @@ permalink: /team/
 <br/>
 <br/>
 
-![leili]({{ site.baseurl }}{% link /assets/img/leilicrop150.jpg %}){: .rounded .float-left}
-<a href="/pages/research.md">Lei Li</a>
-<br/>
-Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
+![leili]({{ site.baseurl }}{% link /assets/img/leilicrop150.png %}){: .float-left}
+[Lei Li]({{ site.baseurl }}{% link pages/leili.md %})
+ 
+ 
+Principal Investigator, starting 2021
+ 
+ 
+<leili@genetics.ac.cn>
+ 
+ 
+Lei aims to mentor enthusiastic researchers who are interested in creative studies.
+
 <br/>
 <br/>
 
@@ -20,11 +28,21 @@ Dr. Zhuangzhi Zhou joined the lab as Research Assistant. Welcome, Zhuangzhi!
 <br/>
 <br/>
 
-![bupage1]({{ site.baseurl }}{% link /assets/img/bupage.jpg %}){: .rounded .float-left}
-**Protocol paper published!**<br/>
-<br/>
-We wrote a protocol for studying protein oligomerization in plants.<br/>
-Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cppb.20107)
+
+![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.png %}){: .float-left}
+ 
+ 
+[Zhuangzhi Zhou]
+ 
+ 
+Research Assistant
+ 
+ 
+<zhouzz@genetics.ac.cn>
+ 
+ 
+Zhuangzhi aims to investigate the molecular details about rice-Magnaporthe interaction.
+
 <br/>
 <br/>
 
@@ -32,8 +50,18 @@ Click [here](https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/c
 
 <br/>
 <br/>
-![rpp7]({{ site.baseurl }}{% link /assets/img/rpp7.jpg %}){: .rounded .float-left}
-**RPW8 RPP7 NLR complex paper published in Cell Host Microbe**<br/>
-<br/>
-Preprint paper about [Atypical Resistance Protein RPW8/HR Triggers Oligomerization of the NLR Immune Receptor RPP7 and Autoimmunity](https://www.sciencedirect.com/science/article/abs/pii/S1931312820300512?via%3Dihub) now is published in Cell Host Microbe.
+
+
+![You]({{ site.baseurl }}{% link /assets/img/youcrop.png %}){: .float-left}
+ 
+ 
+[You?]
+ 
+ 
+ 
+We are always happy to hear from creative and talented researchers and together to develop new ideas. 
+ 
+ 
+Also see [Join us!]({{ site.baseurl }}{% link pages/join.md %})
+
 {: .clearfix}
