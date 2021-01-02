@@ -19,7 +19,7 @@ permalink: /publications/
  
 #### All Publications:
 
-Cambiagno, D., Giudicatti, A., Arce, A., Gagliardi, D., **Li, L.**, Yuan, W., Lundberg, D., Weigel, D., Manavella, P. (2020). HASTY modulates miRNA biogenesis by linking pri-miRNA transcription and processing. **Molecular Plant** https://doi.org/10.1016/j.molp.2020.12.019.
+Cambiagno, D., Giudicatti, A., Arce, A., Gagliardi, D., **Li, L.**, Yuan, W., Lundberg, D., Weigel, D., Manavella, P. (2020). HASTY modulates miRNA biogenesis by linking pri-miRNA transcription and processing. **Molecular Plant**, doi.org/10.1016/j.molp.2020.12.019.
 
 Wang, W., Yang, J., Zhang, J., Liu, Y.-X., Tian, C., Qu, B., Gao, C., Xin, P., Cheng, S., Zhang, W., Miao, P., **Li, L.**, Zhang, X., Chu, J., Zuo, J., Li, J., Bai, Y., Lei, X., Zhou, J.M. (2020). An Arabidopsis secondary metabolite directly targets expression of the bacterial Type III secretion system to inhibit bacterial virulence. **Cell Host Microbe** 27, 601–613.e7.
 
