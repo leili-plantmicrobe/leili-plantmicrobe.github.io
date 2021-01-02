@@ -32,7 +32,7 @@ Lei aims to mentor enthusiastic researchers who are interested in creative studi
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.png %}){: .float-left}
  
  
-**Zhuangzhi Zhou**
+[Zhuangzhi Zhou]({{ site.baseurl }}{% link pages/zhuangzhi.md %})
  
  
 Research Assistant
