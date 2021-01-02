@@ -24,10 +24,8 @@ Email: <zhouzz@genetics.ac.cn>
 2001 - 2008 / PhD / Institue of Microbiology, Chinese Academy of Sciences
 
 2008 - 2011 / Postoc / Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
- 
-2011 - 2020 / Research Assistant in Prof. LiHuang Zhu Lab /  Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
- 
-2021 - now / Research Assistant /  Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
+
+2011 - now / Research Assistant /  Institute of Genetics and Developmental Biology, Chinese Academy of Sciences
 
  
 <br/>
