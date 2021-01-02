@@ -7,15 +7,17 @@ permalink: /publications/
 
 
 
-### Featured Publications:
+#### Featured Publications:
 
 **Li, L.**, Habring, A., Wang, K., Weigel, D. (2020). Oligomerization of NLR immune receptor RPP7 triggered by atypical resistance protein RPW8/HR. **Cell Host Microbe** 27, 405-417.
 
 **Li, L.\*,\#**, Kim, P.\*, Yu, L.\*, Cai, G., Chen, S., Alfano, J.R. and Zhou, J.M.\# (2016) Activation-dependent destruction of a co-receptor by a pseudomonas syringae effector dampens plant immunity. **Cell Host Microbe** 20, 504-514.
 
 **Li, L.\***, Li, M.\*, Yu, L., Zhou, Z., Liang, X., Liu, Z., Cai, G., Gao, L., Zhang, X., Wang, Y., Chen, S., and Zhou, J.M. (2014). The FLS2-associated kinase BIK1 directly phosphorylates the NADPH oxidase RbohD to control plant immunity. **Cell Host Microbe** 15, 329-338.
-
-### All Publications:
+ 
+ 
+ 
+#### All Publications:
 
 Wang, W., Yang, J., Zhang, J., Liu, Y.-X., Tian, C., Qu, B., Gao, C., Xin, P., Cheng, S., Zhang, W., Miao, P., **Li, L.**, Zhang, X., Chu, J., Zuo, J., Li, J., Bai, Y., Lei, X., Zhou, J.M. (2020). An Arabidopsis secondary metabolite directly targets expression of the bacterial Type III secretion system to inhibit bacterial virulence. **Cell Host Microbe** 27, 601–613.e7.
 
