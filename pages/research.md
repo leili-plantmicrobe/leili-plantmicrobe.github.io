@@ -30,13 +30,11 @@ permalink: /research/
 </font>
  
   
-![pheno]({{ site.baseurl }}{% link /assets/img/pheno.png %}){: .float-right}
 <p align="justify"><font face="Lato" size="4">The era of big data allows us to study plant-microbe interaction systematically from genome to phenome and back. In plant pathology, precise, high-throughput, and reproducible phenotyping is still a big obstacle, particularly in the case of disease caused by fungal pathogens. We are interested in developing plant phenomics approaches for automatic, non-destructive and high-throughput phenotyping.</font></p>
  
  
 <p align="justify"><font face="Lato" size="4">The evolutionary relationship between plants and microbes has dramatically affected their genomes and result in highly diverse populations. Immune genes are the most variable genes in plant genomes, and likewise the virulence genes are the most variable genes in the pathogen genomes. We are interested in using the wild crop relatives and/or progenitor, and field samples to identify resistance genes from host and (a)virulence genes from pathogen, and using genomic method to understand how microbial populations drive the evolution of plant immune genes. In the end, We want to use this newly generated resources to engineer disease resistance in crops.</font></p>
-
-{: .clearfix} 
+![pheno]({{ site.baseurl }}{% link /assets/img/pheno.png %}) 
 
 
 ---
