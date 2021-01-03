@@ -45,9 +45,8 @@ permalink: /research/
 </font>
  
  
-![tree]({{ site.baseurl }}{% link /assets/img/tree.jpg %}){: .float-right}
-<p align="justify"><font face="Lato" size="4">Each plant species harbors a core microbial community, which plays a critical function in plant growth and resistance. Some recent studies about human and plant microbiome show that metabolites from both host and microbe can affect counterpart. For example, nonribosomal peptides and polyketides produced by microbes may regulate microbe-microbe or microbe-plant-microbe interactions in plant disease suppression. Focusing on plant-associated fungal community, we will isolate and culture endophytic fungal strains to study the higher-order interaction between different kingdoms. Specifically, We are interested in functional researches by investigating natural endophytic fungal isolates in plant disease resistance. Our goal is to improve plant resistance through manipulating the natural fungal community by genetic engineering tools.</font></p>
 
-{: .clearfix} 
+<p align="justify"><font face="Lato" size="4">Each plant species harbors a core microbial community, which plays a critical function in plant growth and resistance. Some recent studies about human and plant microbiome show that metabolites from both host and microbe can affect counterpart. For example, nonribosomal peptides and polyketides produced by microbes may regulate microbe-microbe or microbe-plant-microbe interactions in plant disease suppression. Focusing on plant-associated fungal community, we will isolate and culture endophytic fungal strains to study the higher-order interaction between different kingdoms. Specifically, We are interested in functional researches by investigating natural endophytic fungal isolates in plant disease resistance. Our goal is to improve plant resistance through manipulating the natural fungal community by genetic engineering tools.</font></p>
+![tree]({{ site.baseurl }}{% link /assets/img/tree.jpg %})
 
 
