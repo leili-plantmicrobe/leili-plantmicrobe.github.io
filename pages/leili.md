@@ -25,7 +25,7 @@ Principal Investigator, starting 2021
 Email: <leili@genetics.ac.cn>
  
  
-Lei got his BS in biotechnology at Northwest A&F University. As a graduate student, he obtained his PhD working on plant immune pattern recognition receptor complex and virulence function of pathogen effectors at the Institute of Genetics and Developmental Biology in the laboratory of Prof. Jian-Min Zhou. Then, he moved to the Max Planck Institute for Developmental Biology as a postdoc working with Detlef Weigel on the mechanism of plant hybrid necrosis.
+Lei got his BS in biotechnology at Northwest A&F University. As a graduate student, he obtained his PhD working on plant immune pattern recognition receptor complex and virulence function of pathogen effectors at the Institute of Genetics and Developmental Biology in the laboratory of Prof. Jian-Min Zhou. Then, he moved to the Max Planck Institute for Developmental Biology as a postdoc working with Prof. Detlef Weigel on the mechanism of plant hybrid necrosis.
  
  
 <br/>
