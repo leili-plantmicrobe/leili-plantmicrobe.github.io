@@ -14,7 +14,7 @@ permalink: /
 </p>
 <br/>
 <br/>
-<p align="justify"><font size="4" face="Lato">We are interested in the molecular mechanism of plant-microbe interaction. Focusing on plant and fungi interaction, we are interested in understanding the molecular dialogue between plants and fungal pathogens, mechanisms of plant immune gene conferring resistance to pathogens, as well as molecular details underlying plant-endophytic fungi interaction. We employ a variety of approaches including molecular genetics, biochemistry, functional genomics, and cell biology to investigate co-evolution between plants and microbes.</font></p>
+<p align="justify"><font size="4" face="Lato">We are interested in the molecular mechanism of plant-microbe interaction. Focusing on plant and fungi interaction, we are interested in understanding the molecular dialogue between plants and fungal pathogens, mechanisms of plant immune gene conferring resistance to pathogens, as well as molecular details underlying plant-endophytic fungi interaction. We will employ a variety of approaches including molecular genetics, biochemistry, functional genomics, and cell biology to investigate co-evolution between plants and microbes.</font></p>
   
 <p align="justify"><font  size="4"  face="Lato">The lab will be situated at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences from 2021. The lab is new, and we are always eager to hear from enthusiastic researchers from any related backgrounds interested in joining the lab.</font></p>
 
