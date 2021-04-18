@@ -18,6 +18,9 @@ permalink: /publications/
  
  
 #### All Publications:
+Schulze, S.\*, Yu, L.\*, Ehinger, A., Kolb, D., Saile, S., Stahl, M., Franz-Wachtel, M., **Li, L.**, Kasmi, F., Cevik, V., Kemmerling, B.* (2021). The TIR-NBS-LRR protein CSA1 is required for autoimmune cell death in Arabidopsis pattern recognition co-receptor bak1 and bir3 mutants. bioRxiv, https://doi.org/10.1101/2021.04.11.438637.
+
+Zhu, W., **Li, L.**, Neuhäuser, B., Thelen, M., Wang, M., Chen, J., Wei, L., Venkataramani, K., Exposito-Alonso, M., Liu, C., Keck, J., Barragan, C., Schwab, B., Lutz, U., Ludewig, U., Weigel, D.* (2021). Small peptides modulate the immune function of the ion channel-like protein ACD6 in Arabidopsis thaliana. **bioRxiv**, https://doi.org/10.1101/2021.01.25.428077.
 
 Cambiagno, D., Giudicatti, A., Arce, A., Gagliardi, D., **Li, L.**, Yuan, W., Lundberg, D., Weigel, D., Manavella, P. (2020). HASTY modulates miRNA biogenesis by linking pri-miRNA transcription and processing. **Molecular Plant**, doi.org/10.1016/j.molp.2020.12.019.
 
@@ -31,7 +34,7 @@ Wang, J., Grubb, L.E., Wang, J., Liang, X., Li, L., Gao, C., Ma, M., Feng, F., L
 
 Zhu, W., Zaidem, M., Van de Weyer, A.L., Gutaker, R.M., Chae, E., Kim, S.T., Bemm, F., **Li, L.**, Todesco, M., Schwab, R., Unger, F., Beham, M.J., Demar, M., Weigel, D. (2018). Modulation of ACD6 dependent hyperimmunity by natural alleles of an Arabidopsis thaliana NLR resistance gene. **PLoS Genetics** 14, e1007628.
 
-**Li, L.\*,#**, Kim, P. *, Yu, L.*, Cai, G., Chen, S., Alfano, J.R. and Zhou, J.M.# (2016) Activation-dependent destruction of a co-receptor by a pseudomonas syringae effector dampens plant immunity. **Cell Host Microbe** 20, 504-514.
+**Li, L.\*,\#**, Kim, P.\*, Yu, L.\*, Cai, G., Chen, S., Alfano, J.R. and Zhou, J.M.# (2016) Activation-dependent destruction of a co-receptor by a pseudomonas syringae effector dampens plant immunity. **Cell Host Microbe** 20, 504-514.
 
 **Li, L.**, Yu, Y., Zhou, Z., and Zhou, J.M. (2016). Plant pattern-recognition receptors controlling innate immunity. **Science China Life Sciences** 59,878-888.
 
