@@ -35,6 +35,21 @@ permalink: /
 </p>
 <br/>
 <br/>
+![Annu]({{ site.baseurl }}{% link /assets/img/annu.jpg %}){: .rounded .float-left}
+**Annual Review is online!**<br/>
+2021-07-01<br/>
+ 
+ 
+One Hundred Years of Hybrid Necrosis: Hybrid Autoimmunity as a Window into the Mechanisms and Evolution of Plant–Pathogen Interactions<br/>
+Click [here](https://www.annualreviews.org/doi/10.1146/annurev-phyto-020620-114826)
+<br/>
+<br/>
+
+{: .clearfix}
+
+<br/>
+<br/>
+
 ![hiring]({{ site.baseurl }}{% link /assets/img/hiring.jpg %}){: .rounded .float-left}
 **We are hiring!**<br/>
 2021-01-03<br/>
