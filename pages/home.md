@@ -36,7 +36,7 @@ permalink: /
 <br/>
 <br/>
 ![Annu]({{ site.baseurl }}{% link /assets/img/annu.jpg %}){: .rounded .float-left}
-**Annual Review is online!**<br/>
+**Annual Review online!**<br/>
 2021-07-01<br/>
  
  
