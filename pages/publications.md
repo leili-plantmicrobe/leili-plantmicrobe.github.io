@@ -9,6 +9,8 @@ permalink: /publications/
 
 #### Featured Publications:
 
+**Li, L.**, Weigel, D. (2021) One hundred years of hybrid necrosis: hybrid autoimmunity as a window into mechanisms and evolution of plant–pathogen interactions. **Annual Review of Phytopathology**. https://doi/10.1146/annurev-phyto-020620-114826.
+
 **Li, L.**, Habring, A., Wang, K., Weigel, D. (2020). Oligomerization of NLR immune receptor RPP7 triggered by atypical resistance protein RPW8/HR. **Cell Host Microbe** 27, 405-417.
 
 **Li, L.\*,\#**, Kim, P.\*, Yu, L.\*, Cai, G., Chen, S., Alfano, J.R. and Zhou, J.M.\# (2016) Activation-dependent destruction of a co-receptor by a pseudomonas syringae effector dampens plant immunity. **Cell Host Microbe** 20, 504-514.
