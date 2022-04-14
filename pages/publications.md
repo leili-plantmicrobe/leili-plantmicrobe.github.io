@@ -17,6 +17,8 @@ permalink: /publications/
  
  
 #### All Publications:
+**Li, L.** (2022) My journey studying plant immunity. **Cell Host Microbe** 30, 463–465.
+
 **Li, L.**, Weigel, D. (2021) One hundred years of hybrid necrosis: hybrid autoimmunity as a window into mechanisms and evolution of plant–pathogen interactions. **Annual Review of Phytopathology**. https://doi/10.1146/annurev-phyto-020620-114826.
 
 Schulze, S.\*, Yu, L.\*, Ehinger, A., Kolb, D., Saile, S., Stahl, M., Franz-Wachtel, M., **Li, L.**, Kasmi, F., Cevik, V., Kemmerling, B.* (2021). The TIR-NBS-LRR protein CSA1 is required for autoimmune cell death in Arabidopsis pattern recognition co-receptor bak1 and bir3 mutants. bioRxiv, https://doi.org/10.1101/2021.04.11.438637.
