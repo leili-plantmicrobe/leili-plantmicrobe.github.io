@@ -8,7 +8,7 @@ permalink: /team/
 <br/>
 <br/>
 
-![leili]({{ site.baseurl }}{% link /assets/img/leilicrop150.png %}){: .float-left}
+![leili]({{ site.baseurl }}{% link /assets/img/leili150.jpg %}){: .float-left}
 [Lei Li]({{ site.baseurl }}{% link pages/leili.md %})
  
  
@@ -29,7 +29,7 @@ Lei aims to mentor enthusiastic researchers who are interested in creative studi
 <br/>
 
 
-![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.png %}){: .float-left}
+![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.jpg %}){: .float-left}
  
  
 [Zhuangzhi Zhou]({{ site.baseurl }}{% link pages/zhuangzhi.md %})
