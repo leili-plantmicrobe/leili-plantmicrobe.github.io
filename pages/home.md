@@ -35,6 +35,19 @@ permalink: /
 </p>
 <br/>
 <br/>
+![CHM]({{ site.baseurl }}{% link /assets/img/commentary.jpg %}){: .rounded .float-left}
+**Invited commentary!**<br/>
+2022-04-15<br/>
+ 
+ 
+Lei was invited to write a commentary on Cell Host Microbe to look back on his journey studying plant immunity and propose the perspectives for future research<br/>
+Click [here](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00139-1)
+<br/>
+<br/>
+
+{: .clearfix}
+
+
 ![Annu]({{ site.baseurl }}{% link /assets/img/annu.jpg %}){: .rounded .float-left}
 **Annual Review online!**<br/>
 2021-07-01<br/>
