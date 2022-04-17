@@ -12,7 +12,7 @@ permalink: /team/
 [Lei Li]({{ site.baseurl }}{% link pages/leili.md %})
  
  
-Principal Investigator, starting 2021
+Principal Investigator
  
  
 <leili@genetics.ac.cn>
