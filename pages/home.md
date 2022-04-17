@@ -33,14 +33,14 @@ permalink: /
  <b>Latest news</b>
 </font>
 </p>
+
 <br/>
 <br/>
 ![CHM]({{ site.baseurl }}{% link /assets/img/commentary.jpg %}){: .rounded .float-left}
 **Invited commentary!**<br/>
 2022-04-15<br/>
  
- 
-Lei was invited to write a commentary on Cell Host Microbe to look back on his journey studying plant immunity and propose the perspectives for future research<br/>
+Lei was invited to write a commentary in Cell Host Microbe to look back on his journey studying plant immunity and propose the perspectives for future research<br/>
 Click [here](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00139-1)
 <br/>
 <br/>
@@ -51,7 +51,6 @@ Click [here](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00139
 ![Annu]({{ site.baseurl }}{% link /assets/img/annu.jpg %}){: .rounded .float-left}
 **Annual Review online!**<br/>
 2021-07-01<br/>
- 
  
 One Hundred Years of Hybrid Necrosis: Hybrid Autoimmunity as a Window into the Mechanisms and Evolution of Plant–Pathogen Interactions<br/>
 Click [here](https://www.annualreviews.org/doi/10.1146/annurev-phyto-020620-114826)
@@ -66,7 +65,6 @@ Click [here](https://www.annualreviews.org/doi/10.1146/annurev-phyto-020620-1148
 ![hiring]({{ site.baseurl }}{% link /assets/img/hiring.jpg %}){: .rounded .float-left}
 **We are hiring!**<br/>
 2021-01-03<br/>
- 
  
 The lab is recruiting! Please write email if interested!<br/>
 Click [here]({{ site.baseurl }}{% link pages/join.md %})
