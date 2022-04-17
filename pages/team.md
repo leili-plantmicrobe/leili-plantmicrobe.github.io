@@ -26,7 +26,6 @@ Lei aims to mentor enthusiastic researchers who are interested in creative studi
 {: .clearfix}
 
 <br/>
-<br/>
 
 
 ![zhuangzhi]({{ site.baseurl }}{% link /assets/img/zhuangzhicrop.jpg %}){: .float-left}
@@ -48,7 +47,6 @@ Zhuangzhi aims to investigate the molecular details about rice-Magnaporthe inter
 
 {: .clearfix}
 
-<br/>
 <br/>
 
 
